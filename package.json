@@ -1,0 +1,22 @@
+{
+  "name": "consumo-de-api-rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Santiago-Ruberto/consumo-de-api-rest.git"
+  },
+  "author": "@santiagruberto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Santiago-Ruberto/consumo-de-api-rest/issues"
+  },
+  "homepage": "https://github.com/Santiago-Ruberto/consumo-de-api-rest#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
